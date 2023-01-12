@@ -5,9 +5,9 @@ load_dotenv()
 
 API_ID = os.getenv("API_ID", "14202110").strip()
 API_HASH = os.getenv("API_HASH", "45f3a3ac8effd88e42aeabe3cfe4f520").strip()
-BOT_TOKEN = os.getenv("BOT_TOKEN", "5409377598:AAEc2gVjT7hUuza9uPqqFaRvB2kX13kJEAI").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 OWNER_ID = list(map(int, os.getenv("OWNER_ID", "5537497510").split()))
-DATABASE_URL = os.getenv("DATABASE_URL", "postgres://ctypgtthtsituv:07f8cb5550bed652b0ecb0a7a16bc80f8aeb10c3d522b3be28a6f7bf8ea40370@ec2-54-155-14-129.eu-west-1.compute.amazonaws.com:5432/d5063872tcnfm1").strip()
+DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
 MUST_JOIN = os.getenv("MUST_JOIN", "VENOM_OFFICIAL_FAMILY")
 
 if not API_ID:
