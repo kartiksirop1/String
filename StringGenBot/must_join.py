@@ -13,7 +13,7 @@ async def must_join_channel(bot: Client, msg: Message):
             await bot.get_chat_member(MUST_JOIN, msg.from_user.id)
         except UserNotParticipant:
             if MUST_JOIN.isalpha():
-                link = "VENOM_OFFICIAL_FAMILY" + MUST_JOIN
+                link = "Its_Venom_family" + MUST_JOIN
             else:
                 chat_info = await bot.get_chat(MUST_JOIN)
                 link = chat_info.invite_link
