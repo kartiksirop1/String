@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "Itz_venom_family"
+      "value": "Its_Venom_family"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
