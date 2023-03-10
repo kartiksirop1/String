@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://telegra.ph/file/9f31b3a61c4897b297a33.jpg" alt="StringGen">
+  <img src="https://telegra.ph/file/17ded061a4ae0833a77b7.jpg" alt="StringGen">
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/Itsvenomo"><img alt="Website" src="https://img.shields.io/badge/𝐌𝐑 𝐀𝐘𝐔𝐒𝐇-blue"></a>
+  <a href="https://github.com/Itzvenomo"><img alt="Website" src="https://img.shields.io/badge/𝐌𝐑 𝐀𝐘𝐔𝐒𝐇-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/Itsvenomo/String?style=social)](https://github.com/Itsvenomo/String/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Itsvenomo/String?style=social)](https://github.com/Itsvenomo/String/fork)
+[![Stars](https://img.shields.io/github/stars/Itzvenomo/String?style=social)](https://github.com/Itzvenomo/String/stargazers)
+  [![Forks](https://img.shields.io/github/forks/Itzvenomo/String?style=social)](https://github.com/Itzvenomo/String/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,7 +25,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Itsvenomo/String"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Itzvenomo/String"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -45,7 +45,6 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐌𝐑 𝐀𝐘𝐔𝐒𝐇](https://github.com/Itsvenomo)
-- » [Stark](https://github.com/StarkBotsIndustries)
+- » [𝐌𝐑 𝐀𝐘𝐔𝐒𝐇](https://github.com/Itzvenomo)
 - » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [LonamiWebs](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
