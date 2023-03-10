@@ -31,7 +31,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 💝](https://telegram.me/Venom_stringrobot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 💝](https://telegram.me/Venom_stringbot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
