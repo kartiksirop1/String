@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/ItzvenomXd/StringGenBot",
+  "repository": "https://github.com/kartiksirop1/String",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "Its_Venom_family"
+      "value": "about_kartikrajofficial"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
